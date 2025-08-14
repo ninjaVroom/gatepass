@@ -1,0 +1,40 @@
+# Local dependencies, builds and caches
+node_modules/
+.next/
+build/
+.dart_tool/
+.gradle/
+**/ephemeral/
+**/.symlinks/
+Pods/
+__pycache__/
+*.pyc
+*.tsbuildinfo
+*.log
+.data/
+.pgdata/
+.turbo/
+coverage/
+# Local settings and secrets
+.env*
+!.env.example
+.vercel/
+.idea/
+.vscode/
+**/local.properties
+**/key.properties
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+.flutter-plugins
+.flutter-plugins-dependencies
+.DS_Store
+Thumbs.db
+outputs/figma/package/validation-report.json
+
+# Generated platform configuration
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
