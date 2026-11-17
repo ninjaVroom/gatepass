@@ -30,6 +30,6 @@ Use a tablet or emulator in landscape. Event code: `TS23AC`. Demo PINs: `1234` f
 
 `lib/data.dart` contains the pass rules, demo server and device queue. `lib/screens/` contains the gate, phone lookup, walk-in and dashboard screens. `test/widget_test.dart` checks the existing rules and reconnection flow.
 
-## Prototype
+## Figma design
 
-Figma prototype link pending.
+[View the Figma design](https://www.figma.com/design/AEXziFfYt0eOxTHdhB5F9h/GatePass-Events).
